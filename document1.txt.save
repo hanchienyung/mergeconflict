@@ -1,0 +1,8 @@
+This line added at master branch
+<<<<<<< HEAD
+this line edited at branch1
+this line added at branch1
+=======
+this line edited at branch2
+this line added at branch2
+>>>>>>> branch2
